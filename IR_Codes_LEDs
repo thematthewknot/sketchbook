@@ -1,0 +1,28 @@
+IR codes LED light remote
+PowerOn:
+Received NEC: FFB04F
+
+PowerOff:
+Received NEC: FFF807
+
+Blue:
+Received NEC: FF8877
+
+Red:
+Received NEC: FF9867
+
+Green:
+
+Received NEC: FFD827
+
+UpBright:
+Received NEC: FF906F
+
+DownBright:
+Received NEC: FFB847
+
+White:
+Received NEC: FFA857
+
+Flash:
+Received NEC: FFB24D
